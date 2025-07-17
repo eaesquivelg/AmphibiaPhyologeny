@@ -34,7 +34,7 @@ Inspired by the axolotl’s developmental plasticity and its pivotal role in amp
 This project was executed in a Git Bash terminal for Windows (using the supercomputer Hoffman2), but can be adapted to other systems. The following are required:
 
 - `bash` (Unix shell)  
-- [IQ-TREE 2](http://www.iqtree.org/) version 2 or higher
+- [IQ-TREE 2](http://www.iqtree.org/) version 2.2.2.6
 - [ASTRAL](https://github.com/smirarab/ASTRAL)
 - [FigTree](http://tree.bio.ed.ac.uk/software/figtree/) for visualization  
 
