@@ -25,7 +25,7 @@ The **axolotl (*Ambystoma mexicanum*)** has long fascinated scientists due to it
 
 Several of the genes included in our analysis — particularly members of the *HOX*, *FGF*, *PAX*, and *TBX* families — have been studied in the context of **axolotl limb development and regeneration** (Gardiner et al., 1995). The conservation of these pathways across amphibians led us to wonder how widely these developmental signals are preserved in other lineages, and how gene-level evolutionary patterns relate to species-level divergence.
 
-![Axolotl](https://upload.wikimedia.org/wikipedia/commons/e/e5/Axolotl_ambystoma_mexicanum_anfibio_ASAG.jpg)
+![Axolotl](https://upload.wikimedia.org/wikipedia/commons/1/15/Axolotl_ambystoma_mexicanum_anfibio_ASAG.jpg)
 
 Inspired by the axolotl’s developmental plasticity and its pivotal role in amphibian research, we expanded our phylogenetic analysis to include **all available amphibian orthologs** for key developmental genes, using axolotl as both a **biological anchor** and an **evolutionary point of comparison**.
 
