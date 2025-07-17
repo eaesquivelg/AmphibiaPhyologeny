@@ -1,6 +1,6 @@
 # Amphibian Species Tree Based on Developmental Orthologs
 
-## Project Authors
+## Project Author
 
 - Emiliano Esquivel
 
