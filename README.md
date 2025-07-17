@@ -38,8 +38,6 @@ This project was executed in a Git Bash terminal for Windows (using the supercom
 - [ASTRAL](https://github.com/smirarab/ASTRAL)
 - [FigTree](http://tree.bio.ed.ac.uk/software/figtree/) for visualization  
 
-Access to computational resources to run multiple trees (e.g., SLURM or GNU parallel) is recommended.
-
 ---
 
 ## How to Use the Program
