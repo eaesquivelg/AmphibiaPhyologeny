@@ -44,10 +44,4 @@ Access to computational resources to run multiple trees (e.g., SLURM or GNU para
 
 ## How to Use the Program
 
-You can reproduce the full analysis by running the following scripts in order:
-
-```bash
-bash scripts/01_align_genes.sh           # Gene-by-gene alignments  
-bash scripts/02_build_gene_trees.sh     # Individual gene tree inference  
-bash scripts/03_concat_and_species_tree.sh  # Concatenation and species tree building  
-bash scripts/04_gcf_analysis.sh          # Gene concordance factor calculation  
+You can reproduce the full analysis by running the `MasterScript.sh` file. 
