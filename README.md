@@ -89,5 +89,4 @@ This project was executed in a Git Bash terminal for Windows (using the supercom
 
 ## How to Use the Program
 
-You can reproduce the full analysis by running the `MasterScript.sh` file. 
->>>>>>> a3a32b69f1be0ba4c39ea5a56c525fac48c0320f
+You can reproduce the full analysis by running the `MasterScript.sh` file.
