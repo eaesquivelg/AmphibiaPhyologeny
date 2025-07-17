@@ -23,7 +23,9 @@ Unlike a gene tree, this species tree seeks to represent the **evolutionary hist
 
 The **axolotl (*Ambystoma mexicanum*)** has long fascinated scientists due to its unique **neotenic life history**, in which individuals retain larval traits such as external gills and an aquatic lifestyle throughout adulthood. Its extraordinary capacity for **limb and spinal cord regeneration**, as well as its use as a model organism in developmental biology, makes it a central reference point in this project.
 
-Several of the genes included in our analysis — particularly members of the *HOX*, *FGF*, *PAX*, and *TBX* families — have been studied in the context of **axolotl limb development and regeneration**. The conservation of these pathways across amphibians led us to wonder how widely these developmental signals are preserved in other lineages, and how gene-level evolutionary patterns relate to species-level divergence.
+Several of the genes included in our analysis — particularly members of the *HOX*, *FGF*, *PAX*, and *TBX* families — have been studied in the context of **axolotl limb development and regeneration** (Gardiner et al., 1995). The conservation of these pathways across amphibians led us to wonder how widely these developmental signals are preserved in other lineages, and how gene-level evolutionary patterns relate to species-level divergence.
+
+![Axolotl](https://upload.wikimedia.org/wikipedia/commons/e/e5/Axolotl_ambystoma_mexicanum_anfibio_ASAG.jpg)
 
 Inspired by the axolotl’s developmental plasticity and its pivotal role in amphibian research, we expanded our phylogenetic analysis to include **all available amphibian orthologs** for key developmental genes, using axolotl as both a **biological anchor** and an **evolutionary point of comparison**.
 
@@ -43,3 +45,7 @@ This project was executed in a Git Bash terminal for Windows (using the supercom
 ## How to Use the Program
 
 You can reproduce the full analysis by running the `MasterScript.md` in the `Genes/` directory.
+
+## References
+
+Gardiner, D. M., Torok, M. A., Mullen, L. M., & Bryant, S. V. (1995). Regulation of HoxA expression in developing and regenerating axolotl limbs. *Development*, *121*(6), 1731–1741. https://doi.org/10.1242/dev.121.6.1731
