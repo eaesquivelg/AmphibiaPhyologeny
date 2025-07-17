@@ -44,6 +44,8 @@ This project was executed in a Git Bash terminal for Windows (using the supercom
 
 ## How to Use the Program
 
+You will find the set of genes that we used for this project inside the `Genes/` directory.
+
 You can reproduce the full analysis by running the `MasterScript.sh` inside the `Genes/` directory.
 
 ## References
