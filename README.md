@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # Amphibian Species Tree Based on Developmental Orthologs
 
-## Project Authors
+## Project Author
 
 - Emiliano Esquivel
 
@@ -13,10 +12,10 @@ This project aims to **reconstruct a species tree of amphibians** (Anura, Urodel
 
 Unlike a gene tree, this species tree seeks to represent the **evolutionary history of species** through a multi-gene approach that includes:
 
-- Multiple sequence alignment of coding sequences  
-- Inference of individual gene trees  
-- Construction of a species tree using gene concordance factors (gCF)  
-- Evaluation of nodes with support based on multiple loci  
+- Multiple sequence alignment of coding sequences. 
+- Inference of individual gene trees.
+- Construction of a species tree using gene concordance factors (gCF).
+- Evaluation of nodes with support based on multiple loci.
 
 > This project also serves as a practical exercise in evolutionary bioinformatics using real data, integrating command-line tools, genomic data handling, and reproducibility.
 
@@ -34,24 +33,17 @@ Inspired by the axolotl’s developmental plasticity and its pivotal role in amp
 
 This project was executed in a Git Bash terminal for Windows (using the supercomputer Hoffman2), but can be adapted to other systems. The following are required:
 
-- `bash` (Unix shell)  
-- [IQ-TREE 2](http://www.iqtree.org/) version 2 or higher
+- `bash` (Unix shell).
+- [IQ-TREE 2](http://www.iqtree.org/) version 2.2.2.6
 - [ASTRAL](https://github.com/smirarab/ASTRAL)
-- [FigTree](http://tree.bio.ed.ac.uk/software/figtree/) for visualization  
-
-Access to computational resources to run multiple trees (e.g., SLURM or GNU parallel) is recommended.
+- [FigTree](http://tree.bio.ed.ac.uk/software/figtree/) for visualization.
 
 ---
 
 ## How to Use the Program
 
-You can reproduce the full analysis by running the following scripts in order:
+You can reproduce the full analysis by running the `MasterScript.md` in the `Genes/` directory.
 
-```bash
-bash scripts/01_align_genes.sh           # Gene-by-gene alignments  
-bash scripts/02_build_gene_trees.sh     # Individual gene tree inference  
-bash scripts/03_concat_and_species_tree.sh  # Concatenation and species tree building  
-bash scripts/04_gcf_analysis.sh          # Gene concordance factor calculation  
 =======
 # Amphibian Species Tree Based on Developmental Orthologs
 
